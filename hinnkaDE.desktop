@@ -1,4 +1,4 @@
-#!/usr/local/bin/hinnkaDE xdg-open
+#!/usr/local/bin/hinnkaDE/VoidLinux xdg-open
 [Desktop Entry]
 Name=hinnkaDE
 Comment=Log in using the hinnkaDE
