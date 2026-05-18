@@ -1,6 +1,6 @@
 #!/usr/local/bin/hinnkaDE/VoidLinux xdg-open
 [Desktop Entry]
-Name=hinnkaDE
+Name=hinnkaDE Void Linux Port
 Comment=Log in using the hinnkaDE
 Exec=/usr/local/bin/hinnkaDE/VoidLinux/hinnkaDE.sh
 TryExec=/usr/local/bin/hinnkaDE/hinnkaDE.sh
